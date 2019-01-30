@@ -1,0 +1,53 @@
+\documentclass[12pt,english]{article}
+
+\usepackage{amsmath}
+\usepackage[margin=1in]{geometry}
+\begin{document}
+
+%\vspace{-4cm}
+\begin{center}
+{\large Exercise 2} \\
+The Riemann problem for acoustic waves at a material interface
+\par\end{center}{\large \par}
+
+Consider the Riemann problem given by the variable-coefficient
+acoustics equations
+\begin{align}
+p_t + K(x) u_x & = 0 \\
+u_t + \frac{1}{\rho(x)} p_x & = 0
+\end{align}
+with
+\begin{align}
+(\rho(x), K(x)) & = \begin{cases} (\rho_\ell, K_\ell) & x < 0 \\ (\rho_r,K_r) & x > 0\end{cases} \\
+(p(x,0),u(x,0)) & = \begin{cases} (p_\ell, u_\ell) & x < 0 \\ (p_r,u_r) & x > 0.\end{cases}
+\end{align}
+In this exercise we will find the solution to this problem and in the process rediscover
+the classical transmission and reflection coefficients.
+
+(a)  The above system can be written as $q_t + A(x)q_x = 0$.
+Show that for any real, positive values $K(x), \rho(x)$, the matrix $A(x)$ has
+one positive and one negative eigenvalue, so that the system is hyperbolic with
+one family of waves going in each direction.
+
+Notice that we cannot define a single set of characteristic variables, since they depend
+on the coefficients that vary in space.
+
+(b)  The Riemann solution will consist of a wave (or discontinuity) going to the left in the medium
+with coefficients $(\rho_\ell, K_\ell)$ and a wave (or discontinuity) going to the right
+in the medium with coefficients $(\rho_r, K_r)$.  To find this solution we must decompose the
+jump $q_r - q_\ell$ into a linear combination of the corresponding eigenvectors of the matrices
+$A(x<0)$ and $A(x>0)$.  That is, we must use the eigenvector corresponding to left-going waves
+in the left medium and the eigenvector corresponding to right-going waves in the right medium.
+Write down and solve this linear system of equations.
+
+(c) Now suppose that the initial data corresponds to a jump that is incident from the left;
+i.e., that $q_r - q_\ell$ is a multiple of the left-going wave family eigenvector of the left medium.
+For instance, you could take $q_r = [0,0]^T$ and $q_\ell = [-Z_\ell, 1]^T$.  Compute the solution of
+the Riemann problem, and then find:
+
+\begin{itemize}
+    \item The ratio of the left-going wave to the initial jump; this is the reflection coefficient.
+    \item The ratio of the right-going wave to the initial jump; this is the transmission coefficient.
+\end{itemize}
+
+\end{document}
