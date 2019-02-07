@@ -1,6 +1,7 @@
 # conservation-laws-course-2019
 Materials for AMCS 333 in Spring 2019 (KAUST)
 
+[Reading assignments and exercises](Reading.md)
 
 Additional resources:
 
