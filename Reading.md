@@ -14,3 +14,10 @@ Exercises:
  - Monday: First exercise from Lesson 1 of HyperPython
  - Wednesday: Exercise 4.3 from FVMHP
 
+## Week 3
+
+- Monday: Godunov's method.
+   - Finish reading FVMHP Chapter 4.
+- Wednesday: Scalar nonlinear conservation laws.
+   - Read RPJS chapters on Burgers equation and traffic.
+   - Also useful: FVMHP chapter 11
