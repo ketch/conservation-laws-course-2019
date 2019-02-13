@@ -21,3 +21,11 @@ Exercises:
 - Wednesday: Scalar nonlinear conservation laws.
    - Read RPJS chapters on Burgers equation and traffic.
    - Also useful: FVMHP chapter 11
+   - Exercise: damped Burgers' equation (hw3.pdf on course Github site)
+
+## Week 4
+
+- Monday: Entropy solutions and the Lax-Wendroff Theorem
+    - Read chapter 12 of FVMHP
+- Wednesday: Limiters and high-resolution schemes
+    - Read chapter 6 of FVMHP
