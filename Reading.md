@@ -27,5 +27,7 @@ Exercises:
 
 - Monday: Entropy solutions and the Lax-Wendroff Theorem
     - Read chapter 12 of FVMHP
+    - Exercise: Weak solutions ([exercises/ex4.pdf](https://github.com/ketch/conservation-laws-course-2019/blob/master/Exercises/ex4.pdf) on course Github site)
+
 - Wednesday: Limiters and high-resolution schemes
     - Read chapter 6 of FVMHP
