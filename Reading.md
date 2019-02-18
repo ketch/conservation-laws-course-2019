@@ -21,7 +21,7 @@ Exercises:
 - Wednesday: Scalar nonlinear conservation laws.
    - Read RPJS chapters on Burgers equation and traffic.
    - Also useful: FVMHP chapter 11
-   - Exercise: damped Burgers' equation (hw3.pdf on course Github site)
+   - Exercise: damped Burgers' equation ([exercises/ex3.pdf](https://github.com/ketch/conservation-laws-course-2019/blob/master/Exercises/ex3.pdf) on course Github site)
 
 ## Week 4
 
