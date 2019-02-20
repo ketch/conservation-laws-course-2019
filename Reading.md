@@ -32,3 +32,4 @@ Exercises:
 - Wednesday: Limiters and high-resolution schemes
     - Read chapter 6 of FVMHP
     - Read my [Illustrated guide to limiters](https://nbviewer.jupyter.org/gist/ketch/03da681c7966a8ce630f).  I highly recommend that you download it and run the code.
+    - Homework: install [PyClaw](http://www.clawpack.org/pyclaw/index.html) and run some of the included examples.
