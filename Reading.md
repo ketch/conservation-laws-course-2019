@@ -33,3 +33,11 @@ Exercises:
     - Read chapter 6 of FVMHP
     - Read my [Illustrated guide to limiters](https://nbviewer.jupyter.org/gist/ketch/03da681c7966a8ce630f).  I highly recommend that you download it and run the code.
     - Homework: install [PyClaw](http://www.clawpack.org/pyclaw/index.html) and run some of the included examples.
+
+## Week 5
+No class
+
+## Week 6
+- Monday: The Lax-Wendroff-LeVeque algorithm
+ - This is covered in Chapter 6 of FVMHP, which you have read already
+- Wednesday: PyClaw tutorial.  Come with your laptop, with PyClaw installed and working.
