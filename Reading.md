@@ -39,5 +39,5 @@ No class
 
 ## Week 6
 - Monday: The Lax-Wendroff-LeVeque algorithm
- - This is covered in Chapter 6 of FVMHP, which you have read already
+    - This is covered in Chapter 6 of FVMHP, which you have read already
 - Wednesday: PyClaw tutorial.  Come with your laptop, with PyClaw installed and working.
