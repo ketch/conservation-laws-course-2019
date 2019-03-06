@@ -43,4 +43,5 @@ No class
 - Wednesday: PyClaw tutorial.  Come with your laptop, with PyClaw installed and working.
     - [Some PyClaw examples in Jupyter notebooks](https://github.com/clawpack/apps/tree/master/notebooks/pyclaw)
     - [HyperPython notebook giving an introduction to PyClaw](https://github.com/ketch/HyperPython/blob/master/Lesson_05_PyClaw.ipynb)
+    - [Gallery of built-in PyClaw examples](http://www.clawpack.org/gallery/pyclaw/gallery/gallery_all.html)
     - Homework: create an interesting simulation in PyClaw.
