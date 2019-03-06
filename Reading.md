@@ -41,3 +41,5 @@ No class
 - Monday: The Lax-Wendroff-LeVeque algorithm
     - This is covered in Chapter 6 of FVMHP, which you have read already
 - Wednesday: PyClaw tutorial.  Come with your laptop, with PyClaw installed and working.
+    - [Some PyClaw examples in Jupyter notebooks](https://github.com/clawpack/apps/tree/master/notebooks/pyclaw)
+    - [HyperPython notebook giving an introduction to PyClaw](https://github.com/ketch/HyperPython/blob/master/Lesson_05_PyClaw.ipynb)
