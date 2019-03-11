@@ -50,3 +50,13 @@ No class
 - Monday: The shallow water equations
    - Reading: FVMHP chapter 13 and the chapter `shallow_water.ipynb` in the Riemann book (the latter is basically a condensed, interactive version of the former)
 -  Wednesday: Working with Clawpack -- advanced topics (source terms, custom boundary conditions, more if time permits)
+
+## Week 8
+
+## Week 9
+No class (spring break)
+
+## Week 10
+
+## Week 11
+Monday, April 1st: Galerkin finite element methods (guest lecture by research scientist Manuel Quezada)
