@@ -52,7 +52,7 @@ No class
 -  Wednesday: ~~Working with Clawpack -- advanced topics (source terms, custom boundary conditions, more if time permits)~~ postponed
 
 ## Week 8
-
+-  Monday: Introduction to approximate Riemann solvers.  Read two notebooks from RPJS: `Approximate_solvers.ipynb` and `Burgers_approximate.ipynb`.
 -  Wednesday: Working with Clawpack -- advanced topics (source terms, custom boundary conditions, more if time permits)
 
 
