@@ -31,3 +31,35 @@ Exercises:
 
 - Wednesday: Limiters and high-resolution schemes
     - Read chapter 6 of FVMHP
+    - Read my [Illustrated guide to limiters](https://nbviewer.jupyter.org/gist/ketch/03da681c7966a8ce630f).  I highly recommend that you download it and run the code.
+    - Homework: install [PyClaw](http://www.clawpack.org/pyclaw/index.html) and run some of the included examples.
+
+## Week 5
+No class
+
+## Week 6
+- Monday: The Lax-Wendroff-LeVeque algorithm
+    - This is covered in Chapter 6 of FVMHP, which you have read already
+- Wednesday: PyClaw tutorial.  Come with your laptop, with PyClaw installed and working.
+    - [Some PyClaw examples in Jupyter notebooks](https://github.com/clawpack/apps/tree/master/notebooks/pyclaw)
+    - [HyperPython notebook giving an introduction to PyClaw](https://github.com/ketch/HyperPython/blob/master/Lesson_05_PyClaw.ipynb)
+    - [Gallery of built-in PyClaw examples](http://www.clawpack.org/gallery/pyclaw/gallery/gallery_all.html)
+    - Homework: create an interesting simulation in PyClaw.
+
+## Week 7
+- Monday: The shallow water equations
+   - Reading: FVMHP chapter 13 and the chapter `shallow_water.ipynb` in the Riemann book (the latter is basically a condensed, interactive version of the former)
+-  Wednesday: ~~Working with Clawpack -- advanced topics (source terms, custom boundary conditions, more if time permits)~~ postponed
+
+## Week 8
+-  Monday: Introduction to approximate Riemann solvers.  Read two notebooks from RPJS: `Approximate_solvers.ipynb` and `Burgers_approximate.ipynb`.
+-  Wednesday: Working with Clawpack -- advanced topics (source terms, custom boundary conditions, more if time permits)
+
+
+## Week 9
+No class (spring break)
+
+## Week 10
+
+## Week 11
+Monday, April 1st: Galerkin finite element methods (guest lecture by research scientist Manuel Quezada)
