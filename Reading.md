@@ -65,3 +65,4 @@ No class (spring break)
 
 ## Week 11
 - Monday: Approximate Riemann solvers.  Read two notebooks from RPJS: `Approximate_solvers.ipynb` and `Burgers_approximate.ipynb`.
+- Wednesday: Tutorial on Riemann solvers in Clawpack.
