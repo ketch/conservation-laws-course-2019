@@ -52,7 +52,7 @@ No class
 -  Wednesday: ~~Working with Clawpack -- advanced topics (source terms, custom boundary conditions, more if time permits)~~ postponed
 
 ## Week 8
--  Monday: Introduction to approximate Riemann solvers.  Read two notebooks from RPJS: `Approximate_solvers.ipynb` and `Burgers_approximate.ipynb`.
+-  Monday: Introduction to approximate Riemann solvers.  Read two notebooks from RPJS: `Approximate_solvers.ipynb` and `Burgers_approximate.ipynb`.  *This lecture was postponed, because we spent the full class working through the homework*.
 -  Wednesday: Working with Clawpack -- advanced topics (source terms, custom boundary conditions, more if time permits)
 
 
@@ -60,6 +60,8 @@ No class
 No class (spring break)
 
 ## Week 10
+- Monday, April 1st: Galerkin finite element methods (guest lecture by research scientist Manuel Quezada)
+- Wednesday: Advanced PyClaw tutorial.  Read Chapter 7 of FVMHP on boundary conditions, and Chapter 17 up to section 17.5, on source terms and operator splitting.  Homework: write a PyClaw simulation (or significantly modify an existing example) in a way that makes use of one or more of the advanced features we learned about: boundary conditions, source terms, etc.
 
 ## Week 11
-Monday, April 1st: Galerkin finite element methods (guest lecture by research scientist Manuel Quezada)
+- Monday: Approximate Riemann solvers.  Read two notebooks from RPJS: `Approximate_solvers.ipynb` and `Burgers_approximate.ipynb`.
