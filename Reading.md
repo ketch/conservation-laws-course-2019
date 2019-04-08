@@ -65,4 +65,4 @@ No class (spring break)
 
 ## Week 11
 - Monday: Approximate Riemann solvers.  Read two notebooks from RPJS: `Approximate_solvers.ipynb` and `Burgers_approximate.ipynb`.
-- Wednesday: Tutorial on Riemann solvers in Clawpack.
+- Wednesday: Roe solver and HLL solver for shallow water equations.  Read `Shallow_water_approximate.ipynb` from RPJS and Chapter 15 of FVMHP, up to section 15.5.
