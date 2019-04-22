@@ -70,3 +70,16 @@ No class (spring break)
 ## Week 12
  - Monday: The Euler equations of compressible, inviscid fluid dynamics.  Reading: `Euler.ipynb` from RPJS and Chapter 14 of FVMHP.  Toro's book has a wealth of information on numerical methods (including many Riemann solvers) for the Euler equations specifically.
  - Wednesday; Riemann solvers in Clawpack.  Bring your laptop.
+ 
+## Week 13
+ - Monday: Pressureless flow.  Reading: `Pressureless_flow.ipynb` from RPJS.
+ - Wednesday: Spatially-varying fluxes.  Reading: `Traffic_variable_speed.ipynb` and `Nonlinear_elasticity.ipynb` from RPJS; section 16.4 from FVMHP.
+  
+## Week 14
+ - Discussions of papers related to course projects.
+
+## Week 15
+ No class.
+ 
+## Week 16
+ - Course project presentations
