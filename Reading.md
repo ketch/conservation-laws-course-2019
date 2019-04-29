@@ -76,7 +76,11 @@ No class (spring break)
  - Wednesday: Spatially-varying fluxes.  Reading: `Traffic_variable_speed.ipynb` and `Nonlinear_elasticity.ipynb` from RPJS; section 16.4 from FVMHP.
   
 ## Week 14
- - Discussions of papers related to course projects.
+Discussions of papers related to course projects.
+
+ - Monday:
+     - Liu, Ma, & Zhou paper on schemes for conservation laws with fractional derivatives (Serikbolsyn)
+     - [RPJS chapter on the Riemann problem for nonconvex scalar conservation laws](https://github.com/clawpack/riemann_book/blob/master/Nonconvex_scalar.ipynb) (Mohammed)
 
 ## Week 15
  No class.
