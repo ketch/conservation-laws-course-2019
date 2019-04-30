@@ -81,6 +81,9 @@ Discussions of papers related to course projects.
  - Monday:
      - Liu, Ma, & Zhou paper on schemes for conservation laws with fractional derivatives (Serikbolsyn)
      - [RPJS chapter on the Riemann problem for nonconvex scalar conservation laws](https://github.com/clawpack/riemann_book/blob/master/Nonconvex_scalar.ipynb) (Mohammed)
+  - Tuesday: spatially-varying flux functions
+     - https://github.com/clawpack/riemann_book/blob/master/Traffic_variable_speed.ipynb
+     - https://github.com/clawpack/riemann_book/blob/master/Nonlinear_elasticity.ipynb
 
 ## Week 15
  No class.
